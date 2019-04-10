@@ -1,6 +1,5 @@
 import os
 import numpy as np
-import matplotlib.pyplot as plt
 
 
 a = os.system("g++ montec.cpp -o montec.x")
